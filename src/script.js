@@ -57,4 +57,4 @@ reverse.addEventListener('click', () => {
   }
 });
 
-document.addEventListener('DOMContentLoaded', () => loadImages());
+document.addEventListener('DOMContentLoaded', () => loadPics());
